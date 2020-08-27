@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "skccuser21-delivery"
+    _PROJECT_NAME: "skccuser21-codedelivery"
 
 phases:
   install:
